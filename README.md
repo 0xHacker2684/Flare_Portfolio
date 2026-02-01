@@ -25,14 +25,15 @@ I am a passionate security researcher in Web3, I’ve uncovered lots of critical
 # Top performances
 
 
-| Contest                     | Platform    | Result | Findings |
-|-----------------------------|-------------|--------|----------|
-| Basin                       | Code4rena   | #3     | 2H       |
-| Allbridge Core Yield        | Sherlock    | #3     | 1M       |
-| Immunefi Arbitration        | Immunefi    | #4     | 1L       |
-| Firelight                   | Immunefi    | #8     | 1M       |
-| Rova                        | Sherlock    | #3     | 1M       |
-| Sentiment V2                | Sherlock    | #23    | 3M       |
+| Contest              | Platform   | Result | Findings | Watch |
+|----------------------|------------|--------|----------|-------|
+| Basin                | Code4rena  | #3     | 2H       | [B](https://code4rena.com/audits/2024-07-basin) |
+| Allbridge Core Yield | Sherlock   | #3     | 1M       | — |
+| Immunefi Arbitration | Immunefi   | #4     | 1L       | [IA](./Contests/Public/Immunefi%20Arbitration/ImmunefiArbitration.png) |
+| Firelight            | Immunefi   | #8     | 1M       | [F](https://immunefi.com/audit-competition/audit-comp-firelight/leaderboard/) |
+| Rova                 | Sherlock   | #3     | 1M       | — |
+| Sentiment V2         | Sherlock   | #23    | 3M       | — |
+
 
 
 

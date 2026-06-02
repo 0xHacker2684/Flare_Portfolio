@@ -58,7 +58,7 @@ I aim to work closely with high-impact Web3 teams to identify subtle logic flaws
 
 | Contest              | Platform  | Rank | Findings | Proof |
 |----------------------|-----------|------|----------|-------|
-| **Basin**            | Code4rena | 🥉 #3 | 2H | [Link](https://code4rena.com/audits/2024-07-basin) |
+| **Basin**            | Code4rena | 🥉 #4 | 2H | [Link](https://code4rena.com/audits/2024-07-basin) |
 | **Allbridge Core Yield** | Sherlock | 🥉 #3 | 1M | — |
 | **Immunefi Arbitration** | Immunefi | #4 | 1L | [Image](./Contests/Public/Immunefi%20Arbitration/ImmunefiArbitration.png) |
 | **Firelight**        | Immunefi | #8 | 1M | [Link](https://immunefi.com/audit-competition/audit-comp-firelight/leaderboard/) |
